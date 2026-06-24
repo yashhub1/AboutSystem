@@ -1,6 +1,6 @@
 import platform
 
-print("System Informationin detail")
+print("System Information detail")
 print("------------------")
 print("Operating System:", platform.system())
 print("Version:", platform.version())
