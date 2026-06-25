@@ -1,8 +1,9 @@
 # AboutSystem
 
 A simple Python application that displays system information.
+This is created to demonstrate the deployment process.
 
-## Technologies
+# Technologies
 
 - Python
 - Docker
